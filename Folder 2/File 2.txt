@@ -1,1 +1,5 @@
+afs efasdfg dafg e v<<<<<<< HEAD
 afs efasdfg dafg e v
+=======
+afdgaagfad
+>>>>>>> main

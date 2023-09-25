@@ -1,1 +1,5 @@
+\sef \sd f\es f\ <<<<<<< HEAD
 \sef \sd f\es f\ 
+=======
+shtah afha
+>>>>>>> main

@@ -1,4 +1,4 @@
-\sef \sd f\es f\ <<<<<<< HEAD
+<<<<<<< HEAD
 \sef \sd f\es f\ 
 =======
 shtah afha

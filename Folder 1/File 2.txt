@@ -1,4 +1,5 @@
-bla bla bla WEQqweADSasdWDASDASDaebla bla bla WEQqweADSasdWDASDASDae
+<<<<<<< HEAD
+bla bla bla WEQqweADSasdWDASDASDae
 =======
 afgdabla bla bla
 >>>>>>> main
